@@ -1,6 +1,7 @@
 # ReClassUseExistingProcessHandlePlugin
 
 This is a plugin for ReClass 2016
+
 Official GitHub: https://github.com/dude719/ReClassEx
 
 In short, when enabled in ReClass, this plugin first looks if the ReClass process has a process handle to the target process and if it has one, it uses it directly instead of calling OpenProcess.
